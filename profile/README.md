@@ -1,9 +1,9 @@
 ## Hi there 👋
-
+(https://github.com/AarhatProducts/.github/assets/68767143/994f521c-c06c-4543-b63d-d554bea09cf0)
 <!--
 
-**Here![Profolio](https://github.com/AarhatProducts/.github/assets/68767143/994f521c-c06c-4543-b63d-d554bea09cf0)
- are some ideas to get you started:**
+
+
 
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
